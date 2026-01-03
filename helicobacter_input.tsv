@@ -1,0 +1,15 @@
+sample	species	rawreads1	rawreads2	coverage
+PR01633	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI00924_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI00924_M_2.fq.gz	HE001
+PR01634	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI00970_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI00970_M_2.fq.gz	HE001
+PR01635	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI00987_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI00987_M_2.fq.gz	HE001
+PR01636	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI01003_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI01003_M_2.fq.gz	HE001
+PR01637	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI01022_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0073/EHI01022_M_2.fq.gz	HE001
+PR02072	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0109/EHI01276_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0109/EHI01276_M_2.fq.gz	HE001
+PR02073	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0109/EHI01361_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0109/EHI01361_M_2.fq.gz	HE001
+PR02933	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02309_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02309_M_2.fq.gz	HE002
+PR02932	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02269_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02269_M_2.fq.gz	HE002
+PR02930	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02248_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02248_M_2.fq.gz	HE002
+PR02928	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02230_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02230_M_2.fq.gz	HE002
+PR02929	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02232_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02232_M_2.fq.gz	HE002
+PR02927	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02229_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02229_M_2.fq.gz	HE002
+PR02931	Apodemus sylvaticus	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02261_M_1.fq.gz	https://sid.erda.dk/share_redirect/BaMZodj9sA/PPR/PRB0187/EHI02261_M_2.fq.gz	HE002
